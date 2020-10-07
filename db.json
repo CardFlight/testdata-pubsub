@@ -1,0 +1,19 @@
+{
+  "123456": {
+    "httpStatusCode": "200",
+    "httpStatusMsg": "OK",
+    "eventCount": "1",
+    "eventType": "CloseMerchant",
+    "notificationId": "123456",
+    "timestamp": "2019-05-21 14:50:45",
+    "data": {
+      "closeMerchantDetails": [
+        {
+          "chainId": "0T0002",
+          "merchantId": "112233445566",
+          "closeDate": "2019-09-06"
+        }
+      ]
+    }
+  }
+}
