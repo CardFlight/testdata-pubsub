@@ -1,17 +1,222 @@
 {
-  "123456": {
+  "FakeNewTerminalNotification": {
     "httpStatusCode": "200",
-    "httpStatusMsg": "OK",
+    "httpStatusMsg": "success",
     "eventCount": "1",
-    "eventType": "CloseMerchant",
-    "notificationId": "123456",
-    "timestamp": "2019-05-21 14:50:45",
+    "eventType": "NewTerminal",
+    "notificationId": "10462535",
+    "timestamp": "2020-09-01 14:31:08",
     "data": {
-      "closeMerchantDetails": [
+      "chain": [
         {
-          "chainId": "0T0002",
-          "merchantId": "0011221100AA",
-          "closeDate": "2019-09-06"
+          "chainId": "05115M",
+          "dbaName": "FATTMERCHANT",
+          "industryType": "OTHER",
+          "legalName": "FATTMERCHANT INC",
+          "ownershipType": "CORPORATION",
+          "sicCode": "5812",
+          "website": "www.fattmerchant.com",
+          "salesOrganization": {
+            "code": "53",
+            "description": "MPS"
+          },
+          "salesChannel": {
+            "code": "PAYFAC",
+            "description": "PAYFAC"
+          },
+          "addresses": [
+            {
+              "addressType": "PHYSICAL",
+              "addressLine1": "100 S ORANGE AVE STE 400",
+              "city": "Orlando",
+              "state": "FL",
+              "zip": "32801",
+              "zipExtension": "3236",
+              "county": "ORANGE",
+              "country": "US",
+              "timezone": "EDT"
+            }
+          ],
+          "contacts": [
+            {
+              "contactType": "PRIMARY CONTACT",
+              "firstName": "Suneera",
+              "lastName": "Madhani",
+              "phone": "4079821782",
+              "email": "fakeEmailForProduct@VANTIV.COM"
+            }
+          ],
+          "stores": [
+            {
+              "storeNumber": "000000046",
+              "dbaName": "RNA Medical Aesthetics",
+              "legalName": "Illuri & Barakam LLC",
+              "addresses": [
+                {
+                  "addressType": "PHYSICAL",
+                  "addressLine1": "516 W OAKLAND AVE STE 101",
+                  "addressLine2": "Suite 101",
+                  "city": "Johnson City",
+                  "state": "TN",
+                  "zip": "37604",
+                  "zipExtension": "1677",
+                  "county": "WASHINGTON",
+                  "country": "US",
+                  "timezone": "EDT"
+                }
+              ],
+              "contacts": [
+                {
+                  "contactType": "PRIMARY CONTACT",
+                  "firstName": "Illuri",
+                  "lastName": "Reddy",
+                  "phone": "4238880399",
+                  "email": "fakeEmailForProduct@VANTIV.COM"
+                }
+              ],
+              "merchants": [
+                {
+                  "merchantId": "4445035688738",
+                  "merchantName": "FAT*RNA MEDICAL AESTH",
+                  "sicCode": "8011",
+                  "merchantDescription": "FAT*RNA MEDICAL AESTH    Johnson City TN",
+                  "terminals": [
+                    {
+                      "merchantId": "4445035688738",
+                      "terminalId": "100100100",
+                      "terminalNumber": "8",
+                      "bankId": "1340",
+                      "hostMerchantNumber": "035688738",
+                      "status": "ACTIVE",
+                      "vendorTerminalId": "777122143",
+                      "terminalType": {
+                        "code": "810",
+                        "description": "PAX A920"
+                      },
+                      "environment": {
+                        "code": "0",
+                        "description": "Retail"
+                      },
+                      "application": {
+                        "code": "HRTA80A",
+                        "description": "HRTA80A"
+                      },
+                      "terminalProductCategory": {
+                        "credit": "Y",
+                        "debit": "Y",
+                        "ebt": "N",
+                        "gift": "N",
+                        "getiCheck": "N"
+                      },
+                      "customizationDetail": [
+                        {
+                          "name": "Password Protect Void",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Password Protect Credit",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Password Protect Batch",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Auto-Close Time",
+                          "rawValue": "0430"
+                        },
+                        {
+                          "name": "Auto Close",
+                          "rawValue": "H"
+                        },
+                        {
+                          "name": "Password - 5/6 Digits",
+                          "rawValue": "11739"
+                        },
+                        {
+                          "name": "No Signature Under $25/$50",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Server Prompt",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Password Protect Reports",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Cash Back",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Block Manual Entry",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "AVS prompting",
+                          "rawValue": "B"
+                        },
+                        {
+                          "name": "CVV Prompting",
+                          "rawValue": "E"
+                        },
+                        {
+                          "name": "Internet Connection Type",
+                          "rawValue": "D"
+                        },
+                        {
+                          "name": "Customer Receipt Option",
+                          "rawValue": "C"
+                        },
+                        {
+                          "name": "Settlement Report Option",
+                          "rawValue": "D"
+                        },
+                        {
+                          "name": "Fraud Control",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Retail Tip",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Invoice Prompt",
+                          "rawValue": "N",
+                          "value": "0"
+                        },
+                        {
+                          "name": "Card Present Prompting",
+                          "rawValue": "Y"
+                        },
+                        {
+                          "name": "Internal Contactless",
+                          "rawValue": "Y"
+                        },
+                        {
+                          "name": "Disable EMV",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Enable Dial as Primary Comm ING",
+                          "rawValue": "N"
+                        },
+                        {
+                          "name": "Network Routing Code",
+                          "rawValue": "EF0000"
+                        },
+                        {
+                          "name": "POS Software",
+                          "rawValue": "W"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     }
