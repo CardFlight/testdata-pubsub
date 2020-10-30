@@ -43,13 +43,13 @@
               "firstName": "Suneera",
               "lastName": "Madhani",
               "phone": "4079821782",
-              "email": "fakeEmailForProduct@VANTIV.COM"
+              "email": "newTerminalProductTest@email.com"
             }
           ],
           "stores": [
             {
               "storeNumber": "000000046",
-              "dbaName": "RNA Medical Aesthetics 2",
+              "dbaName": "RNA Medical Aesthetics 3",
               "legalName": "Illuri & Barakam LLC",
               "addresses": [
                 {
