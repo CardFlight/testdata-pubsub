@@ -83,8 +83,8 @@
                   "terminals": [
                     {
                       "merchantId": "4445035688738",
-                      "terminalId": "100100100",
-                      "terminalNumber": "8",
+                      "terminalId": "100100111",
+                      "terminalNumber": "11",
                       "bankId": "1340",
                       "hostMerchantNumber": "035688738",
                       "status": "ACTIVE",
