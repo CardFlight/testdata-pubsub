@@ -91,7 +91,7 @@
                       "vendorTerminalId": "777122143",
                       "terminalType": {
                         "code": "810",
-                        "description": "PAX A920"
+                        "description": "SwipeSimple PAX A920"
                       },
                       "environment": {
                         "code": "0",
@@ -207,7 +207,7 @@
                           "rawValue": "EF0000"
                         },
                         {
-                          "name": "POS Software",
+                          "name": "Application Bundle",
                           "rawValue": "W"
                         }
                       ]
