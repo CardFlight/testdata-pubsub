@@ -1,5 +1,5 @@
 {
-  "FakeNewTerminalNotification": {
+  "FakeUnassociatedTerminal": {
     "httpStatusCode": "200",
     "httpStatusMsg": "success",
     "eventCount": "1",
@@ -43,13 +43,13 @@
               "firstName": "Suneera",
               "lastName": "Madhani",
               "phone": "4079821782",
-              "email": "newTerminalProductTest@email.com"
+              "email": "newTerminalProductTest2@email.com"
             }
           ],
           "stores": [
             {
               "storeNumber": "000000046",
-              "dbaName": "RNA Medical Aesthetics 3",
+              "dbaName": "RNA Medical Aesthetics 4",
               "legalName": "Illuri & Barakam LLC",
               "addresses": [
                 {
@@ -71,19 +71,19 @@
                   "firstName": "Illuri",
                   "lastName": "Reddy",
                   "phone": "4238880399",
-                  "email": "fakeEmailForProduct@VANTIV.COM"
+                  "email": "fakeEmailForProduct3@VANTIV.COM"
                 }
               ],
               "merchants": [
                 {
-                  "merchantId": "4445035688738",
+                  "merchantId": "4445035688999",
                   "merchantName": "FAT*RNA MEDICAL AESTH",
                   "sicCode": "8011",
                   "merchantDescription": "FAT*RNA MEDICAL AESTH    Johnson City TN",
                   "terminals": [
                     {
-                      "merchantId": "4445035688738",
-                      "terminalId": "100100112",
+                      "merchantId": "4445035688999",
+                      "terminalId": "222111222",
                       "terminalNumber": "11",
                       "bankId": "1340",
                       "hostMerchantNumber": "035688738",
