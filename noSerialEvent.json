@@ -1,0 +1,6 @@
+{
+  "notificationId":"123456",
+  "eventType":"NewTerminal",
+  "eventCount":"1",
+  "_eventUrl": "https://my-json-server.typicode.com/CardFlight/testdata-pubsub/NoSerialNotification"
+}
