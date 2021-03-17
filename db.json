@@ -1,5 +1,5 @@
 {
-  "NoSerialNotification": {
+  "FirstTerminal": {
     "httpStatusCode": "200",
     "httpStatusMsg": "success",
     "eventCount": "1",
@@ -43,7 +43,7 @@
               "firstName": "John",
               "lastName": "Dowe",
               "phone": "...ignored...",
-              "email": "security@example.com"
+              "email": "peter+mindycatering@cardflight.com"
             }
           ],
           "stores": [
@@ -77,16 +77,16 @@
               "merchants": [
                 {
                   "merchantId": "4445035688999",
-                  "merchantName": "Fake Plant Podium 1",
+                  "merchantName": "Mindy's First Terminal",
                   "sicCode": "8011",
                   "merchantDescription": "",
                   "terminals": [
                     {
                       "merchantId": "...",
-                      "terminalId": "222111222",
+                      "terminalId": "333444555",
                       "terminalNumber": "123",
                       "bankId": "1340",
-                      "hostMerchantNumber": "123456789012",
+                      "hostMerchantNumber": "987654321098",
                       "status": "ACTIVE",
                       "vendorTerminalId": "777122143",
                       "terminalType": {
