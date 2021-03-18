@@ -77,14 +77,14 @@
               "merchants": [
                 {
                   "merchantId": "4445035688999",
-                  "merchantName": "Jack's Jerkey Terminal 1",
+                  "merchantName": "Jack's Jerkey Terminal 2",
                   "sicCode": "8011",
                   "merchantDescription": "",
                   "terminals": [
                     {
                       "merchantId": "...",
-                      "terminalId": "222111222",
-                      "terminalNumber": "123",
+                      "terminalId": "333444333",
+                      "terminalNumber": "456",
                       "bankId": "1340",
                       "hostMerchantNumber": "123456789012",
                       "status": "ACTIVE",
