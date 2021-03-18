@@ -1,5 +1,5 @@
 {
-  "FirstTerminal": {
+  "NoSerialNotification": {
     "httpStatusCode": "200",
     "httpStatusMsg": "success",
     "eventCount": "1",
@@ -12,7 +12,7 @@
           "chainId": "05115M",
           "dbaName": "...ignored...",
           "industryType": "OTHER",
-          "legalName": "Fake Plant Podium INC",
+          "legalName": "Jack's Jerkey INC",
           "ownershipType": "CORPORATION",
           "sicCode": "5812",
           "website": "overwatch.swipesimple.com",
@@ -43,13 +43,13 @@
               "firstName": "John",
               "lastName": "Dowe",
               "phone": "...ignored...",
-              "email": "peter+mindycatering@cardflight.com"
+              "email": "peter+jacksjerkey@cardflight.com"
             }
           ],
           "stores": [
             {
               "storeNumber": "000000046",
-              "dbaName": "Fake Plant Podium",
+              "dbaName": "Jack's Jerkey",
               "legalName": "",
               "addresses": [
                 {
@@ -77,16 +77,16 @@
               "merchants": [
                 {
                   "merchantId": "4445035688999",
-                  "merchantName": "Mindy's First Terminal",
+                  "merchantName": "Jack's Jerkey Terminal 1",
                   "sicCode": "8011",
                   "merchantDescription": "",
                   "terminals": [
                     {
                       "merchantId": "...",
-                      "terminalId": "333444555",
+                      "terminalId": "222111222",
                       "terminalNumber": "123",
                       "bankId": "1340",
-                      "hostMerchantNumber": "987654321098",
+                      "hostMerchantNumber": "123456789012",
                       "status": "ACTIVE",
                       "vendorTerminalId": "777122143",
                       "terminalType": {
